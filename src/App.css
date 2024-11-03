@@ -1,0 +1,8 @@
+.button-action{
+  opacity: 0;
+  transition: ease-in-out 0.3ms;
+}
+.hover-button-edit:hover .button-action{
+  opacity: 1;
+  transition: ease-in-out 0.3ms;
+}
